@@ -18,8 +18,8 @@
   "private": true,
   "license": "MIT",
   "devDependencies": {
-    "@edgio/cli": "^7.7.1",
-    "@edgio/core": "^7.7.1",
+    "@edgio/cli": "^7.10.0",
+    "@edgio/core": "^7.10.0",
     "@edgio/devtools": "^7.7.1",
     "@edgio/next": "^7.7.1",
     "@edgio/prefetch": "^7.7.1",
@@ -43,7 +43,7 @@
     "react-icons": "^4.12.0",
     "react-responsive-modal": "^6.4.2",
     "react-syntax-highlighter": "^15.5.0",
-    "undici": "^5.23.0",
+    "undici": "^5.28.3",
     "url-parse": "^1.5.10",
     "whatwg-url": "^13.0.0"
   }
